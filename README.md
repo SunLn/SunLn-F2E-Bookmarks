@@ -611,28 +611,6 @@ SunLn 的前端收藏夹，值得分享、学习的前端网站，持续整理�
 
 
 ### VPN
+* [VPN List](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/VPN.md)
 
 
-* [MxVPN加速中心_网络加速器-畅游互联网-看到更多的世界 -](http://www.mxvpn.org/portal.php)
-* [订购免费VPN - 如何设置vpn，享受免费上网的乐趣 - 51VPN](https://www.51vpn.biz/order.shtml)
-* [PoVPN网络加速器 官方网站](http://www.povpn.com/)
-* [鲨鱼加速器官网 - 鲨鱼加速器下载,鲨鱼VPN,免费快速的网络游戏加速器](https://www.shayunet.net/index.php)
-* [VPNSS|SSH&amp;VPN一号通|自动开通高速稳定的美国SSH代理和VPN](http://www.vpnss03.com/)
-* [Green网络加速器--唯一官网](https://www.grjsq.biz/)
-* [免费VPN/账号分享 最新VPN代理服务器推荐 VPN软件下载 | 游世界](http://52youji.org/)
-* [YESVPN-包月10元，多国高速线路，支持windows,osx,ipad,iphone多系统 购买VPN](http://v2.yesvpn.info/index.php?controller=buy)
-* [代理99 您身边最好用的VPN专家](http://106.186.20.89/)
-* [Cproxy国际加速器](http://xjiasu.com/)
-* [goagent - a gae proxy forked from gappproxy/wallproxy - Google Project Hosting](https://code.google.com/p/goagent/)
-* [VPN Gate 下载](http://www.vpngate.net/cn/download.aspx)
-* [SoftEther VPN Project - SoftEther VPN Project](http://www.softether.org/)
-* [Software Download | Global Pass](http://gpass1.com/gpass/download-en)
-* [I2P Anonymous Network - I2P](http://www.i2p2.de/)
-* [Syndie - download](http://syndie.i2p2.de/download.html)
-* [Download Free VPN for iPhone, Mac and Windows to Access Blocked Sites &amp; Surf Anonymously](http://www.hotspotshield.com/trial/thank-you)
-* [用户中心_鲨鱼加速器官网](https://www.shayunet.net/user.php)
-* [smarthosts - 我是一个云Hosts文件，用来干啥你懂的 - Google Project Hosting](http://code.google.com/p/smarthosts/)
-* [https://smarthosts.googlecode.com/svn/trunk/hosts](https://smarthosts.googlecode.com/svn/trunk/hosts)
-* [west-chamber-season-3/west-chamber-proxy at master · liruqi/west-chamber-season-3](https://github.com/liruqi/west-chamber-season-3/tree/master/west-chamber-proxy)
-* [Hostels Worldwide - Online Hostel Bookings, Ratings and Reviews](http://www.hostelworld.com/)
-* [Shadowsocks - Clients](http://shadowsocks.org/en/download/clients.html)
