@@ -41,6 +41,27 @@ SunLn 的前端收藏夹，值得分享、学习的前端网站，持续整理�
 * [Articles| Filament Group, Inc., Boston, MA | Filament Group, Inc., Boston, MA](http://www.filamentgroup.com/lab/)
 
 
+#### UED
+
+
+* [腾讯MXD移动互联网设计中心](http://mxd.tencent.com)
+* [携程UED-携程旅行前端开发团队](http://ued.ctrip.com/blog/)
+* [Tencent AlloyTeam](http://www.alloyteam.com/)
+* [ISUX 腾讯社交用户体验设计](http://isux.tencent.com)
+* [腾讯MXD移动互联网设计中心](http://mxd.tencent.com)
+* [腾讯CDC](http://cdc.tencent.com)
+* [一淘-UX-用户体验中心](http://ux.etao.com)
+* [QQ游戏设计中心](http://gdc.qq.com)
+* [TGideas-腾讯游戏官方设计团队](http://tgideas.qq.com)
+* [TaoBaoUED | 做地球上最好的 UED](http://ued.taobao.com/blog/)
+* [搜狐焦点UED](http://ued.focus.cn/wordpress/)
+* [MWEB - 做最好的无线web研发团队！](http://mweb.baidu.com/)
+* [TGideas-腾讯游戏官方设计团队](http://tgideas.qq.com/)
+* [腾讯ISUX – 社交用户体验设计部 – 设计你的体验](http://isux.tencent.com/)
+* [Spirit - 腾讯移动Web整体解决方案 | AlloyTeam](http://alloyteam.github.io/Spirit/)
+* [EFE Tech - 百度EFE（Excellent FrontEnd）技术体系](http://efe.baidu.com/)
+
+
 ### Resource
 
 
@@ -577,37 +598,12 @@ SunLn 的前端收藏夹，值得分享、学习的前端网站，持续整理�
 
 
 
-#### UED
-
-
-* [腾讯MXD移动互联网设计中心 – 关于](http://mxd.tencent.com/about)
-* [携程UED-携程旅行前端开发团队](http://ued.ctrip.com/blog/)
-* [关于我们 | Tencent AlloyTeam](http://www.alloyteam.com/about/)
-* [关于ISUX | ISUX 腾讯社交用户体验设计](http://isux.tencent.com/team)
-* [腾讯MXD移动互联网设计中心 – 招聘](http://mxd.tencent.com/jobs)
-* [招聘 - 腾讯CDC](http://cdc.tencent.com/?jobs)
-* [文章 -一淘-UX-用户体验中心](http://ux.etao.com/)
-* [QQ游戏设计中心 » 团队招聘](http://gdc.qq.com/?page_id=168)
-* [TGideas-腾讯游戏官方设计团队](http://tgideas.qq.com/web201106/join.shtml)
-* [TaoBaoUED | 做地球上最好的 UED](http://ued.taobao.com/blog/)
-* [搜狐焦点UED](http://ued.focus.cn/wordpress/)
-* [MWEB - 做最好的无线web研发团队！](http://mweb.baidu.com/)
-* [TGideas-腾讯游戏官方设计团队](http://tgideas.qq.com/)
-* [腾讯ISUX – 社交用户体验设计部 – 设计你的体验](http://isux.tencent.com/)
-* [Spirit - 腾讯移动Web整体解决方案 | AlloyTeam](http://alloyteam.github.io/Spirit/)
-* [EFE Tech - 百度EFE（Excellent FrontEnd）技术体系](http://efe.baidu.com/)
 
 
 
-### ip-info
 
-
-* [通过IP获取用户地理位置省份城市的接口使用](http://www.piaoyi.org/network/552.html)
-* [int.dpool.sina.com.cn/iplookup/iplookup.php?format=js](http://int.dpool.sina.com.cn/iplookup/iplookup.php?format=js)
-* [webapi/ip-api - Wiki](http://developer.baidu.com/map/index.php?title=webapi/ip-api "webapi/ip-api")
-* [api.map.baidu.com/location/ip?ak=NuGZTGeRiy6m05Ary5GwfvVR&amp;coor=bd09ll](http://api.map.baidu.com/location/ip?ak=NuGZTGeRiy6m05Ary5GwfvVR&coor=bd09ll)
-* [纯真 - 穿越时空隧道，重拾昔日纯真！](http://www.cz88.net/)
-* [淘宝IP地址库](http://ip.taobao.com/instructions.php)
+### IP Info
+* [IP Info](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/IP-Info.md)
 
 
 ### VPN
