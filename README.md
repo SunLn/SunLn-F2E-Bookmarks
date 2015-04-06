@@ -43,33 +43,16 @@ SunLn 的前端收藏夹，值得分享、学习的前端网站，持续整理�
 * [Articles| Filament Group, Inc., Boston, MA | Filament Group, Inc., Boston, MA](http://www.filamentgroup.com/lab/)
 
 
-#### UED
 
 
-* [腾讯MXD移动互联网设计中心](http://mxd.tencent.com)
-* [携程UED-携程旅行前端开发团队](http://ued.ctrip.com/blog/)
-* [Tencent AlloyTeam](http://www.alloyteam.com/)
-* [ISUX 腾讯社交用户体验设计](http://isux.tencent.com)
-* [腾讯MXD移动互联网设计中心](http://mxd.tencent.com)
-* [腾讯CDC](http://cdc.tencent.com)
-* [一淘-UX-用户体验中心](http://ux.etao.com)
-* [QQ游戏设计中心](http://gdc.qq.com)
-* [TGideas-腾讯游戏官方设计团队](http://tgideas.qq.com)
-* [TaoBaoUED | 做地球上最好的 UED](http://ued.taobao.com/blog/)
-* [搜狐焦点UED](http://ued.focus.cn/wordpress/)
-* [MWEB - 做最好的无线web研发团队！](http://mweb.baidu.com/)
-* [TGideas-腾讯游戏官方设计团队](http://tgideas.qq.com/)
-* [腾讯ISUX – 社交用户体验设计部 – 设计你的体验](http://isux.tencent.com/)
-* [Spirit - 腾讯移动Web整体解决方案 | AlloyTeam](http://alloyteam.github.io/Spirit/)
-* [EFE Tech - 百度EFE（Excellent FrontEnd）技术体系](http://efe.baidu.com/)
 
 
 ### Resource
 
-#### [国内 Blog](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/China-Blog.md)
-
-
-
+#### [UED](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/UED.md)
+#### [国内前端博客](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/China-Blog.md)
+#### [设计、ICON资源](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/Design.md)
+#### [UI库](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/UI.md)
 
 
 #### Cool
@@ -79,40 +62,6 @@ SunLn 的前端收藏夹，值得分享、学习的前端网站，持续整理�
 * [Animate.css - a bunch of plug-and-play CSS animations](http://daneden.me/animate/)
 * [加载样式](http://tobiasahlin.com/spinkit/)
 * [PACE — Automatic page load progress bars](http://github.hubspot.com/pace/docs/welcome/)
-
-
-
-#### Static
-
-
-* [站酷（ZCOOL） - 设计师互动平台 - 交流设计.分享快乐](http://www.zcool.com.cn/)
-* [懒人图库 - 矢量图素材,网页素材下载 - 学会偷懒，并懒出境界是提高工作效率最有效的方法！](http://www.lanrentuku.com/)
-* [免费字体下载](http://cn.ffonts.net/)
-* [Iconfont-阿里巴巴矢量图标库](http://iconfont.cn/)
-* [Font Awesome, the iconic font designed for Bootstrap](http://fortawesome.github.io/Font-Awesome/)
-* [Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/)
-* [❍ IcoMoon](http://icomoon.io/)
-* [Font Awesome Cheatsheet](http://fontawesome.io/cheatsheet/)
-* [IcoMoon App - Icon Font Generator](http://icomoon.io/app/#/select)
-* [优设-UISDC: 优秀网页设计联盟-SDC-网页设计师交流平台-听讲座，聊设计，找素材，尽在优设网](http://www.uisdc.com/)
-* [Icon Search Engine | Iconfinder](http://www.iconfinder.com/)
-* [Fico | a font with icons, by Lensco.be](http://fico.lensco.be/)
-* [Demo: Pure CSS GUI icons (experimental) – Nicolas Gallagher](http://nicolasgallagher.com/pure-css-gui-icons/demo/)
-
-
-
-#### UI
-
-
-* [Themes for Twitter Bootstrap - WrapBootstrap](https://wrapbootstrap.com/)
-* [Flat UI](http://designmodo.github.io/Flat-UI/)
-* [Introduction | Semantic UI](http://semantic-ui.com/)
-* [SmartAdmin - Responsive WebApp - Live Preview - WrapBootstrap](http://wrapbootstrap.com/preview/WB0573SK0)
-* [ACME - Responsive Admin Template - WrapBootstrap: Themes for Twitter Bootstrap](https://wrapbootstrap.com/theme/acme-responsive-admin-template-WB0JLR295)
-* [FreshUI - Premium Web App and Admin Template | DEMO](http://pixelcave.com/demo/freshui/page_elements_blocks_grid.php)
-* [Premium WordPress Themes | Elegant Themes](http://www.elegantthemes.com/)
-* [DeepFocus Theme | Just another WordPress site](http://www.elegantthemes.com/preview/DeepFocus/)
-* [BUI](http://www.builive.com/)
 
 
 
