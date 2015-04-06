@@ -1,0 +1,17 @@
+## JavaScript
+
+* [JavaScript 秘密花园](http://bonsaiden.github.com/JavaScript-Garden/zh/#function.closures)
+* [&#39;BackboneApplication&#39; -](http://feliving.github.io/developing-backbone-applications/backup/#%E5%BA%8F)
+* [JS NICE: Statistical renaming, Type inference and Deobfuscation](http://www.jsnice.org/)
+* [Clouda](http://clouda.com/)
+* [CommonJS: JavaScript Standard Library](http://www.commonjs.org/)
+* [Raphaël Reference 中文帮助文档 （API）, 最优秀的矢量操作Javascript库 -- julying.com 翻译Raphaël,Raphael , SVG,VML 网页矢量图插件](http://julying.com/lab/raphael-js/docs/)
+* [Backbone.js API中文文档 - CSSer](http://www.csser.com/tools/backbone/backbone.js.html)
+* [使用超动感HTML &amp; JS开发WEB应用！ | AngularJS中文社区](http://www.angularjs.cn/)
+* [TodoMVC](http://todomvc.com/)
+* [JS: The Right Way](http://jstherightway.org/)
+* [JavaScript 术语表 | Codecademy](http://www.codecademy.com/zh/glossary/javascript)
+* [Headroom.js](http://wicky.nillia.ms/headroom.js/)
+* [JavaScript - W3C DOM - Introduction](http://quirksmode.org/dom/intro.html)
+* [JSConf - Conferences for the JavaScript community.](http://jsconf.com/)
+* [PHP functions for JavaScript - php.js](http://phpjs.org/functions/)

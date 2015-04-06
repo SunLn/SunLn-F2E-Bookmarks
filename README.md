@@ -5,19 +5,17 @@ SunLn 的前端收藏夹，值得分享、学习的前端网站，持续整理�
 下一步是进一步分类，下步步是评级
 
 
-### 书签栏
+### 常用
 
 * [Can I use](http://caniuse.com/)
 * [DevDocs](http://devdocs.io/)
-* [翻译](http://translate.google.cn/)
-* [有道](http://dict.youdao.com/)
 * [DevTools](https://developers.google.com/chrome-developer-tools/?hl=zh-CN)
 * [导航](http://whycss.com/)
 * [OverAPI](http://overapi.com/)
 * [行動裝置相容性測試](https://www.google.com/webmasters/tools/mobile-friendly/)
 * [html5ify.com/fks/fks_chart/](http://html5ify.com/fks/fks_chart/)
 
-### 00特别
+### 特别
 
 
 * [Smashing Magazine — For Professional Web Designers and Developers](http://www.smashingmagazine.com/)
@@ -33,7 +31,7 @@ SunLn 的前端收藏夹，值得分享、学习的前端网站，持续整理�
 
 
 
-### 01不懂
+### 待学
 
 
 * [Yeoman - Modern workflows for modern webapps](http://yeoman.io/index.html)
@@ -43,17 +41,15 @@ SunLn 的前端收藏夹，值得分享、学习的前端网站，持续整理�
 * [Articles| Filament Group, Inc., Boston, MA | Filament Group, Inc., Boston, MA](http://www.filamentgroup.com/lab/)
 
 
-
-
-
-
 ### Resource
 
 #### [UED](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/UED.md)
 #### [国内前端博客](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/China-Blog.md)
 #### [设计、ICON资源](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/Design.md)
 #### [UI库](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/UI.md)
-
+#### [HTML](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/HTML.md)
+#### [Javascript](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/Javascript.md)
+#### [CSS](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/CSS.md)
 
 #### Cool
 
@@ -105,76 +101,6 @@ SunLn 的前端收藏夹，值得分享、学习的前端网站，持续整理�
 
 
 
-#### HTML
-
-
-* [Jump Start HTML5: Basics - Learnable](https://learnable.com/books/jump-start-html5-basics/online/cover)
-* [DCloud HBuilder-最佳HTML5开发工具](http://www.dcloud.net.cn/)
-* [The W3C Markup Validation Service](http://validator.w3.org/)
-* [JavaScript/HTML格式化 - 站长工具](http://tool.chinaz.com/Tools/JsFormat.aspx)
-* [Dive Into HTML5](http://diveintohtml5.info/)
-* [HTML5研究小组_致力于HTML5在中国的发展与应用_HTML5教程_HTML5资源_HTML5游戏](http://www.mhtml5.com/)
-* [HTML5 App Development Tools. Build Apps for Any Device with Sencha. | Home | Sencha](http://www.sencha.com/)
-* [Foundation HTML5 Animation with JavaScript](http://lamberta.github.io/html5-animation/)
-* [Jade Template Syntax Documentation by Example](http://naltatis.github.io/jade-syntax-docs/#basics)
-* [Modernizr: the feature detection library for HTML5/CSS3](http://modernizr.com/)
-* [HTML5 Please - Use the new and shiny responsibly](http://html5please.com/)
-* [HTML5, CSS3, JS Demos, Creations and Experiments | CSSDeck](http://cssdeck.com/)
-* [HTML5 UP! Responsive HTML5 and CSS3 Site Templates](http://html5up.net/)
-* [HTML CHARACTER CODES](http://bohemianalps.com/tools/characters/)
-* [Differences from HTML4](http://www.swordair.com/docs/html5-diff/)
-* [ Markdown Syntax Documentation](http://daringfireball.net/projects/markdown/syntax#blockquote)
-* [Transactional HTML Email Templates](http://blog.mailgun.com/transactional-html-email-templates/)
-
-
-
-#### JS
-
-
-* [JavaScript 秘密花园](http://bonsaiden.github.com/JavaScript-Garden/zh/#function.closures)
-* [&#39;BackboneApplication&#39; -](http://feliving.github.io/developing-backbone-applications/backup/#%E5%BA%8F)
-* [JS NICE: Statistical renaming, Type inference and Deobfuscation](http://www.jsnice.org/)
-* [Clouda](http://clouda.com/)
-* [CommonJS: JavaScript Standard Library](http://www.commonjs.org/)
-* [Raphaël Reference 中文帮助文档 （API）, 最优秀的矢量操作Javascript库 -- julying.com 翻译Raphaël,Raphael , SVG,VML 网页矢量图插件](http://julying.com/lab/raphael-js/docs/)
-* [Backbone.js API中文文档 - CSSer](http://www.csser.com/tools/backbone/backbone.js.html)
-* [使用超动感HTML &amp; JS开发WEB应用！ | AngularJS中文社区](http://www.angularjs.cn/)
-* [TodoMVC](http://todomvc.com/)
-* [JS: The Right Way](http://jstherightway.org/)
-* [JavaScript 术语表 | Codecademy](http://www.codecademy.com/zh/glossary/javascript)
-* [Headroom.js](http://wicky.nillia.ms/headroom.js/)
-* [JavaScript - W3C DOM - Introduction](http://quirksmode.org/dom/intro.html)
-* [JSConf - Conferences for the JavaScript community.](http://jsconf.com/)
-* [PHP functions for JavaScript - php.js](http://phpjs.org/functions/)
-
-
-
-#### CSS
-
-
-* [CSS3.0 Maker | CSS3.0 Generator | CSS 3.0 Generator | css3 generator](http://www.css3maker.com/index.html)
-* [CSS - Contents and compatibility](http://www.quirksmode.org/css/contents.html)
-* [Tridiv | CSS 3D Editor](http://tridiv.com/)
-* [Cross Browser Opacity | CSS-Tricks](http://css-tricks.com/snippets/css/cross-browser-opacity/)
-* [Learn CSS Layout](http://learnlayout.com/)
-* [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/#)
-* [动画手册* [Guide] - CSS3动画参考 by Tencent ECD | DMDC](http://ecd.tencent.com/css3/guide.html)
-* [CSS Font Stack :: A complete collection of web safe CSS font stacks :: Web Fonts](http://cssfontstack.com/)
-* [Css2Less](http://css2less.cc/#)
-* [Test your CSS media queries features - pieroxy.net](http://pieroxy.net/blog/pages/css-media-queries/test-features.html)
-* [CSS Reset | 2013&#39;s most common CSS Resets to copy/paste, with documentation / tutorials](http://www.cssreset.com/)
-* [Selectivizr - CSS3 pseudo-class and attribute selectors for IE 6-8](http://selectivizr.com/)
-* [重构 CSS 值](http://yanxyz.github.io/emmet-docs/actions/reflect-css-value/)
-* [Guide to CSS support in email | Campaign Monitor](http://www.campaignmonitor.com/css/)
-* [LESS Hat. A kick-ass LESS Mixin Library for Everyone.](http://lesshat.com/)
-* [学习CSS布局](http://zh.learnlayout.com/)
-* [W3C CSS 验证服务](http://jigsaw.w3.org/css-validator/)
-* [Format CSS Code - CSS Portal](http://www.cssportal.com/format-css/)
-* [Css代码压缩/解压缩格式化 - 站长工具](http://tool.chinaz.com/Tools/CssFormat.aspx)
-* [Format CSS Online](http://www.lonniebest.com/FormatCSS/)
-* [Styleguide | Yelp （UI开发规划）](http://www.yelp.com/styleguide#foundation)
-* [sass入门 - sass教程](http://www.w3cplus.com/sassguide/index.html)
-* [Animate.css](http://daneden.github.io/animate.css/)
 
 
 
@@ -293,7 +219,6 @@ SunLn 的前端收藏夹，值得分享、学习的前端网站，持续整理�
 * [GITHUB 排名](https://github.com/search?langOverride=&language=&o=desc&p=1&q=location%3Achina&repo=&s=followers&start_value=1&type=Users)
 * [Search · location:china](https://github.com/search?langOverride=&language=&o=desc&q=location%3Achina&repo=&s=followers&start_value=1&type=Users)
 * [Github精选 - 爱学网](http://n22.cn/github/)
-* [github开发的编辑器](http://atom.io/)
 
 
 
@@ -358,25 +283,6 @@ SunLn 的前端收藏夹，值得分享、学习的前端网站，持续整理�
 * [IMG2TXT: ASCII Art Made Easy!](http://www.degraeve.com/img2txt.php)
 * [t.y.p.o.r.g.a.n.i.s.m : ASCII-O-Matic](http://www.typorganism.com/asciiomatic/)
 * [Text to ASCII Art Generator (TAAG)](http://patorjk.com/software/taag/#p=testall&f=Linux&t=%E6%90%9E%E5%9F%BA)
-
-
-
-
-#### GIT
-
-
-* [远程分支 — git-reference 0.1 documentation](https://git-reference.readthedocs.org/en/latest/Git-Branching/Remote-Branches/)
-* [Git快速入门 | 挑战书](http://tiaozhanshu.com/doc/git/quickstart)
-* [World Hello - WorldHello](http://www.worldhello.net/)
-* [GotGitHub — GotGitHub](http://www.worldhello.net/gotgithub/)
-* [Git Magic - 前言](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_tw/)
-* [Git - 爱库网 - ikeepu.com](http://ikeepu.com/bar/101216844)
-* [git(1)](https://www.kernel.org/pub/software/scm/git/docs/)
-* [Git - 起步](http://git-scm.com/book/zh/%E8%B5%B7%E6%AD%A5)
-* [Git图形管理界面-sourcetree](http://www.sourcetreeapp.com/)
-* [GitBook](http://www.gitbook.io/)
-* [visionmedia/git-extras](https://github.com/visionmedia/git-extras)
-
 
 
 ### 兼容性
