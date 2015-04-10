@@ -24,3 +24,10 @@
 * [Styleguide | Yelp （UI开发规划）](http://www.yelp.com/styleguide#foundation)
 * [sass入门 - sass教程](http://www.w3cplus.com/sassguide/index.html)
 * [Animate.css](http://daneden.github.io/animate.css/)
+
+
+
+* [Creative Link Effects](http://tympanus.net/Development/CreativeLinkEffects/#cl-effect-4)
+* [Animate.css - a bunch of plug-and-play CSS animations](http://daneden.me/animate/)
+* [加载样式](http://tobiasahlin.com/spinkit/)
+* [PACE — Automatic page load progress bars](http://github.hubspot.com/pace/docs/welcome/)

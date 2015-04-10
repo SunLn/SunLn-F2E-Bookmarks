@@ -17,3 +17,11 @@
 * [Differences from HTML4](http://www.swordair.com/docs/html5-diff/)
 * [ Markdown Syntax Documentation](http://daringfireball.net/projects/markdown/syntax#blockquote)
 * [Transactional HTML Email Templates](http://blog.mailgun.com/transactional-html-email-templates/)
+
+
+#### EDM 模板
+
+
+* [邮件模板-Activation - Really Good Emails](http://reallygoodemails.com/category/activation/)
+* [leemunroe/html-email-template](https://github.com/leemunroe/html-email-template)
+* [HTML email templates for free | Campaign Monitor](https://www.campaignmonitor.com/email-templates/?utm_source=codepen&utm_medium=newsletter&utm_campaign=canvas#gallery)
