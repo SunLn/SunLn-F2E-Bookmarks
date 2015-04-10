@@ -15,7 +15,7 @@ SunLn 的前端收藏夹，值得分享、学习的前端网站，持续整理�
 * [行動裝置相容性測試](https://www.google.com/webmasters/tools/mobile-friendly/)
 * [html5ify.com/fks/fks_chart/](http://html5ify.com/fks/fks_chart/)
 
-### 特别
+### 特别推荐海外博客
 
 
 * [Smashing Magazine — For Professional Web Designers and Developers](http://www.smashingmagazine.com/)
@@ -31,15 +31,6 @@ SunLn 的前端收藏夹，值得分享、学习的前端网站，持续整理�
 
 
 
-### 待学
-
-
-* [Yeoman - Modern workflows for modern webapps](http://yeoman.io/index.html)
-* [PhoneGap | Home](http://phonegap.com/)
-* [Selenium - Web Browser Automation](http://docs.seleniumhq.org/)
-* [Front End Web Development Quiz By David Shariff](http://davidshariff.com/quiz/)
-* [Articles| Filament Group, Inc., Boston, MA | Filament Group, Inc., Boston, MA](http://www.filamentgroup.com/lab/)
-
 
 ### Resource
 
@@ -50,106 +41,9 @@ SunLn 的前端收藏夹，值得分享、学习的前端网站，持续整理�
 #### [HTML](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/HTML.md)
 #### [Javascript](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/Javascript.md)
 #### [CSS](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/CSS.md)
+#### [Ebook](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/Ebook.md)
 
-#### Cool
-
-
-* [Creative Link Effects](http://tympanus.net/Development/CreativeLinkEffects/#cl-effect-4)
-* [Animate.css - a bunch of plug-and-play CSS animations](http://daneden.me/animate/)
-* [加载样式](http://tobiasahlin.com/spinkit/)
-* [PACE — Automatic page load progress bars](http://github.hubspot.com/pace/docs/welcome/)
-
-
-
-#### EDM
-
-
-* [邮件模板-Activation - Really Good Emails](http://reallygoodemails.com/category/activation/)
-* [leemunroe/html-email-template](https://github.com/leemunroe/html-email-template)
-* [HTML email templates for free | Campaign Monitor](https://www.campaignmonitor.com/email-templates/?utm_source=codepen&utm_medium=newsletter&utm_campaign=canvas#gallery)
-
-
-#### Ebook
-
-
-* [Books - program-think - 【编程随想】收藏的电子书 - 【编程随想】的收藏 - Google Project Hosting](https://code.google.com/p/program-think/wiki/Books)
-* [Index of /~greg/stackoverflow/ebooks](http://hewgill.com/~greg/stackoverflow/ebooks/)
-* [公开 - SkyDrive](https://skydrive.live.com/?cid=F5B0090663FEEADA&id=F5B0090663FEEADA%21828#cid=F5B0090663FEEADA&id=F5B0090663FEEADA%21105)
-* [Automating Front-end Workflow // Speaker Deck](https://speakerdeck.com/addyosmani/automating-front-end-workflow)
-
-
-
-#### Tutorial
-
-
-* [Impressive Webs, Toronto | Web Design Articles &amp; Tutorials](http://www.impressivewebs.com/)
-* [Tutorialzine | Web Development Tutorials &amp; Resources](http://tutorialzine.com/)
-* [Web development tutorials, from beginner to advanced | Nettuts+](http://net.tutsplus.com/)
-* [Learn HTML5, CSS3, Javascript - video style tutorials](http://thecodeplayer.com/)
-* [Tutorials | Codrops](http://tympanus.net/codrops/category/tutorials/)
-* [Ramp Up - Shaping up with Angular.js](http://campus.codeschool.com/courses/shaping-up-with-angular-js/level/1/section/1/video/1)
-* [My Library - Learnable](https://learnable.com/home)
-* [Learnable](https://learnable.com/)
-
-
-
-#### Game
-
-
-* [Build New Games](http://buildnewgames.com/)
-* [Global GameJam 2014](http://tryhtml5.sinaapp.com/wne/)
-
-
-
-
-
-
-#### 酷站
-
-
-* [Panic Blog](http://www.panic.com/blog/)
-* [Demo section of Marcofolio.net](http://demo.marcofolio.net/)
-* [Use CSS3 to Create a Dynamic Stack of Index Cards - Demo](http://designlovr.com/examples/dynamic_stack_of_index_cards/)
-* [↔ EDA | Point of sales solutions](http://www.edaaustralasia.com/)
-* [Nobuaki Honma](http://rbv.me/)
-* [Pi&#39;s Epic Journey - LIFE OF PI on Digital HD | Watch Full Movie Online or Download Now](http://journey.lifeofpimovie.com/#!/mysterious-island)
-* [Sony USA - Consumer Electronics Products, Movies, Music, Games and Services](http://discover.store.sony.com/be-moved/)
-* [Lets do something together | Iuvo](http://www.iuvo.si/touch)
-* [https://developers.google.com/glass/design/index](https://developers.google.com/glass/design/index)
-* [TremulaJS](http://garris.github.io/TremulaJS/)
-* [MelonHTML5 - Metro Framework](http://www.melonhtml5.com/)
-* [Envy Labs](http://envylabs.com/)
-* [A Single Div](http://a.singlediv.com/)
-* [POP! crackART](http://christmasexperiments.com/2013/23/experiment.html)
-* [寻找奥兹国 | 迪斯尼电影巨作《魔境仙踪》 | Google Chrome](http://www.findyourwaytooz.com/)
-* [豌豆实验室招聘-5201314彩蛋](http://www.wandoujia.com/join#getJobInfo=1)
-* [Create a Meme 水印参考](http://www.anymeme.org/)
-* [Metro UI template | Home](http://metro-webdesign.info/#&home)
-* [Firebase - Build Realtime Apps](https://www.firebase.com/)
-* [jQuery Scroll Path](http://joelb.me/scrollpath/)
-* [The Pete Design | A UI/UX Specialized Entrepreneur](http://www.thepetedesign.com/)
-* [three.js css3d - periodic table](http://mrdoob.github.io/three.js/examples/css3d_periodictable.html)
-* [Swiper Demos](http://www.idangero.us/sliders/swiper/demos.php)
-* [Flat Surface Shader](http://matthew.wagerfield.com/flat-surface-shader/)
-* [百度钱包 | 1分钱专享](http://1.baidu.com/)
-* [Snapzheimer](http://snapzheimer.org/)
-* [Water Drop Effect in HTML &amp; CSS | Abduzeedo Design Inspiration](http://abduzeedo.com/water-drop-effect-html-css)
-* [CSS Tricks | Demo Studio | MDN](https://developer.mozilla.org/en-US/demos/detail/css-tricks/launch#)
-* [首届 Ping++ 线上黑客马拉松报名 | Ping++ | 移动应用支付接口](https://pingplusplus.com/hackathon2014)
-* [NEXT | 不错过任何一个新产品](http://next.36kr.com/posts)
-* [Perspective Grid 2 - CodePen](http://codepen.io/SunLn/pen/emOxvx)
-* [Our Solar System — An experiment with CSS3 border-radius, transforms &amp; animations.](http://neography.com/experiment/circles/solarsystem/)
-* [Tilted Content Slideshow](http://tympanus.net/Tutorials/TiltedContentSlideshow/)
-* [Screeps - the world&#39;s first MMO sandbox strategy game for programmers](http://www.screeps.com/)
-* [API Store_为开发者提供最全面的API服务](http://apistore.baidu.com/)
-* [Page Not Found / Hugoware](http://www.hugoware.net/404)
-* [cssarrowplease](http://cssarrowplease.com/)
-* [Astral](https://app.astralapp.com/dashboard)
-* [一条80后索狗的成长史](http://digi.163.com/special/sonyps/#!/scene-1)
-* [云服务器_云存储_云产品-阿里云](http://www.aliyun.com/product)
-* [Baraja: A Plugin for Spreading Items in a Card-Like Fashion](http://tympanus.net/Development/Baraja/)
-* [PaintCode-苹果手机尺寸](http://www.paintcodeapp.com/)
-* [ClippyJS - Add Clippy or his friends to any website for instant nostalgia](https://www.smore.com/clippy-js)
+#### [Tutorial](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/Tutorial.md)
 
 
 
@@ -314,15 +208,6 @@ SunLn 的前端收藏夹，值得分享、学习的前端网站，持续整理�
 
 
 
-### Grunt
-
-
-* [globaldev/grunt-montage](https://github.com/globaldev/grunt-montage)
-* [grunt-spritesmith](https://npmjs.org/package/grunt-spritesmith)
-* [jakesgordon/sprite-factory](https://github.com/jakesgordon/sprite-factory)
-* [Grunt: The JavaScript Task Runner](http://gruntjs.com/)
-
-
 
 ### 移动开发
 
@@ -397,4 +282,12 @@ SunLn 的前端收藏夹，值得分享、学习的前端网站，持续整理�
 ### VPN
 * [VPN List](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/VPN.md)
 
+
+### 待整理
+
+* [Yeoman - Modern workflows for modern webapps](http://yeoman.io/index.html)
+* [PhoneGap | Home](http://phonegap.com/)
+* [Selenium - Web Browser Automation](http://docs.seleniumhq.org/)
+* [Front End Web Development Quiz By David Shariff](http://davidshariff.com/quiz/)
+* [Articles| Filament Group, Inc., Boston, MA | Filament Group, Inc., Boston, MA](http://www.filamentgroup.com/lab/)
 
