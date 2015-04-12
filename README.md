@@ -41,6 +41,7 @@ SunLn 的前端收藏夹，值得分享、学习的前端网站，持续整理�
 * [HTML](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/HTML.md)
 * [Javascript](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/Javascript.md)
 * [CSS](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/CSS.md)
+* [Workflow - 前端工程构建](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/Workflow.md)
 * [移动前端开发](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/Mobile.md)
 * [Speed - 性能](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/Speed.md)
 * [Ebook - 电子书](https://github.com/SunLn/SunLn-F2E-Bookmarks/blob/master/Ebook.md)
