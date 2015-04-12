@@ -1,6 +1,6 @@
 ## 国内前端博客
 #### 五星
-* [W3CPlus | css3教程-css3实例-css3动画 | 记述前端那些事——引领Web前沿](http://www.w3cplus.com/)
+* [W3CPlus | 记述前端那些事——引领Web前沿](http://www.w3cplus.com/)
 * [岁月如歌 | 用开放的心态，打造专业的人生。玉伯的博客，需要翻墙](http://lifesinger.wordpress.com/)
 * [HTML5资源教程 | 分享HTML5开发资源和开发教程](http://www.html5tricks.com/)
 * [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
