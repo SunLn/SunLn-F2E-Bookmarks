@@ -6,6 +6,7 @@
 * [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)
 * [酷壳 – CoolShell.cn](http://coolshell.cn/)
 * [编程随想的博客](http://program-think.blogspot.com/)
+* [稀土掘金](http://gold.xitu.io/)
 * [奇舞周刊](http://www.75team.com/weekly/)
 * [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 * [开发者头条 - 开发者的首选阅读分享平台](http://toutiao.io/)
